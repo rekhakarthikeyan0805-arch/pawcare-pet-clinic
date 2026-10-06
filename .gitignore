@@ -1,0 +1,10 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+
+# Node (if backend is added later)
+node_modules/
+.env
